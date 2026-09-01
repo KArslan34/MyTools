@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1a3JLXq/N0o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karslan\\source\\repos\\Csv2Json\\Csv2Json\\Csv2Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karslan\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
